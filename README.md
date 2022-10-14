@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yosri-Jemai
-- 👀 I’m interested in Web Development & Machine learning
+- 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning front end web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : yosrii.jemaiii@gmail.com
