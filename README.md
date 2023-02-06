@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yosri-Jemai
-- 👀 I’m interested in Web Development 
+- 👀 I’m interested in Development 
 - 📫 How to reach me : yosrii.jemaiii@gmail.com
 
 <!---
