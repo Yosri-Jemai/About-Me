@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Yosri-Jemai
-- 👀 I’m interested in Web Development, Mobile Development & Data Science
+- 👋 Hi, I’m Yosri
+- 👀 I’m interested in : Web Development | Mobile Development | Big Data
 - 📫 How to reach me : yosrii.jemaiii@gmail.com | https://www.linkedin.com/in/yosri-jemai-2k01
 
 <!---
